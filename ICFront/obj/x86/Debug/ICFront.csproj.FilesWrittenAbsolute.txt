@@ -1,0 +1,6 @@
+/home/grv/ICFront/ICFront/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/grv/ICFront/ICFront/obj/x86/Debug/ICFront.gtk-gui.gui.stetic
+/home/grv/ICFront/ICFront/bin/Debug/ICFront.pdb
+/home/grv/ICFront/ICFront/bin/Debug/ICFront.exe
+/home/grv/ICFront/ICFront/obj/x86/Debug/ICFront.exe
+/home/grv/ICFront/ICFront/obj/x86/Debug/ICFront.pdb
